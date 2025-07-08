@@ -1,0 +1,8 @@
+[
+  { "timestamp": "2025-06-29T10:00:00Z", "user_id": "u123", "page": "/home", "country": "IN" },
+  { "timestamp": "2025-06-29T10:01:00Z", "user_id": "u124", "page": "/pricing", "country": "IN" },
+  { "timestamp": "2025-06-29T10:01:05Z", "user_id": "u125", "page": "/home", "country": "US" },
+  { "timestamp": "2025-06-29T10:02:00Z", "user_id": "u126", "page": "/contact", "country": "IN" },
+  { "timestamp": "2025-06-29T10:02:10Z", "user_id": "u127", "page": "/home", "country": "CA" },
+  { "timestamp": "2025-06-29T10:03:00Z", "user_id": "u128", "page": "/about", "country": "US" }
+]
